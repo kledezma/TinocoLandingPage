@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TinocoLandingPage/static/css/main.132baecb.chunk.css",
+    "main.js": "/TinocoLandingPage/static/js/main.e7c8331a.chunk.js",
+    "main.js.map": "/TinocoLandingPage/static/js/main.e7c8331a.chunk.js.map",
+    "runtime-main.js": "/TinocoLandingPage/static/js/runtime-main.ed82ad13.js",
+    "runtime-main.js.map": "/TinocoLandingPage/static/js/runtime-main.ed82ad13.js.map",
+    "static/js/2.b141e0bb.chunk.js": "/TinocoLandingPage/static/js/2.b141e0bb.chunk.js",
+    "static/js/2.b141e0bb.chunk.js.map": "/TinocoLandingPage/static/js/2.b141e0bb.chunk.js.map",
+    "index.html": "/TinocoLandingPage/index.html",
+    "static/css/main.132baecb.chunk.css.map": "/TinocoLandingPage/static/css/main.132baecb.chunk.css.map",
+    "static/js/2.b141e0bb.chunk.js.LICENSE.txt": "/TinocoLandingPage/static/js/2.b141e0bb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed82ad13.js",
+    "static/js/2.b141e0bb.chunk.js",
+    "static/css/main.132baecb.chunk.css",
+    "static/js/main.e7c8331a.chunk.js"
+  ]
+}

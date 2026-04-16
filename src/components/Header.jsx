@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Header = () => {
+const Header = ({ onNavigate }) => {
     return (
         <header className="header">
             <nav className="nav">
@@ -11,6 +11,11 @@ const Header = () => {
                     <li><a href="#timeline">Línea de Tiempo</a></li>
                     <li><a href="#importancia">Importancia</a></li>
                     <li><a href="#propuesta">Propuesta</a></li>
+                    <li>
+                        <button onClick={onNavigate} className="nav-switch-btn">
+                            Ver Investigación →
+                        </button>
+                    </li>
                 </ul>
             </nav>
         </header>

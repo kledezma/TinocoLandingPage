@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TinocoLandingPage/static/css/main.9fca6ce0.css",
+    "main.js": "/TinocoLandingPage/static/js/main.d0ac64d9.js",
+    "index.html": "/TinocoLandingPage/index.html",
+    "main.9fca6ce0.css.map": "/TinocoLandingPage/static/css/main.9fca6ce0.css.map",
+    "main.d0ac64d9.js.map": "/TinocoLandingPage/static/js/main.d0ac64d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fca6ce0.css",
+    "static/js/main.d0ac64d9.js"
+  ]
+}

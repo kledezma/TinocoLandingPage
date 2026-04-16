@@ -1,29 +1,14 @@
-import React from 'react';
-import Header from './components/Header';
-import Hero from './components/Hero';
-import ContextoHistorico from './components/ContextoHistorico';
-import Timeline from './components/Timeline';
-import Importancia from './components/Importancia';
-import PropuestaInnovadora from './components/PropuestaInnovadora';
-import PublicoObjetivo from './components/PublicoObjetivo';
-import TripleHelice from './components/TripleHelice';
-import Footer from './components/Footer';
-import './styles/App.css';
+import React, { useState } from 'react';
+import CampaignPage from './pages/CampaignPage';
+import ResearchPage from './pages/ResearchPage';
 
 const App = () => {
-    return (
-        <div className="App">
-            <Header />
-            <Hero />
-            <ContextoHistorico />
-            <Timeline />
-            <Importancia />
-            <PropuestaInnovadora />
-            <PublicoObjetivo />
-            <TripleHelice />
-            <Footer />
-        </div>
-    );
+    const [page, setPage] = useState('campaign');
+
+    if (page === 'research') {
+        return <ResearchPage onNavigate={() => setPage('campaign')} />;
+    }
+    return <CampaignPage onNavigate={() => setPage('research')} />;
 };
 
 export default App;

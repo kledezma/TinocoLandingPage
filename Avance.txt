@@ -1,0 +1,225 @@
+## Web Structure
+1-Titulo
+2-Introducción: Breve explicación del contexto.
+2-Objetivos: Descripción de los propósitos de la investigación.
+3-Métodos: Resumen de cómo se realizó la investigación.
+4-Resultados: Presentación de los hallazgos clave, utilizando gráficos y tablas.
+5-Conclusiones: Interpretación de los resultados y su relevancia.
+6-Referencias: Citas bibliográficas relevantes o un QR que lleve a las referencias
+
+## Titulo
+Conocimiento y percepciones de la población costarricense sobre la dictadura de los hermanos Tinoco (1917–1919) y su relevancia en la historia democrática nacional
+
+## Introducción
+Costa Rica es reconocida por su estabilidad democrática; sin embargo, su historia también ha estado marcada por momentos de ruptura, como la dictadura de los hermanos Tinoco (1917–1919). Este periodo evidenció la fragilidad de las instituciones en contextos de crisis y la importancia de defender los derechos fundamentales.
+A pesar de su relevancia histórica, hoy en día existe un nivel limitado de conocimiento sobre este acontecimiento, especialmente en las generaciones más jóvenes. Esto plantea una interrogante clave: ¿cómo influye el desconocimiento del pasado en la forma en que valoramos la democracia en el presente?
+Esta investigación busca analizar el conocimiento y las percepciones de la población costarricense sobre la dictadura de los Tinoco, con el objetivo de generar reflexión, fortalecer la memoria histórica y promover una ciudadanía más crítica y consciente del valor de la democracia.
+
+## Objetivos
+Objetivo general: Evaluar el nivel de conocimiento y las percepciones de las personas sobre la dictadura de los hermanos Federico y José Joaquín Tinoco (1917–1919)con el fin de analizar su comprensión e importancia dentro de la historia democrática del país
+
+Objetivos específicos:
+- Medir el nivel de conocimiento histórico que poseen las personas en Costa Rica  sobre el periodo de la dictadura de los hermanos Tinoco.
+- Identificar las percepciones de los encuestados respecto a la importancia de este acontecimiento en el desarrollo de la democracia nacional.
+- Analizar el grado de información que manejan las personas sobre los principales hechos, características y consecuencias de la dictadura Tinoco.
+ 
+## Metodología (Hazlo en cards)
+🧪 Enfoque del estudio
+Investigación con enfoque mixto (cuantitativo + cualitativo), de tipo no experimental y transversal, analizando el fenómeno en un solo momento.
+
+📊 Encuesta (Cuantitativo)
+Se aplicó una encuesta estructurada a 50 personas mayores de edad en Costa Rica, utilizando un muestreo probabilístico estratificado.
+
+🎤 Entrevistas (Cualitativo)
+Se realizaron entrevistas semiestructuradas a tres perfiles clave:
+    Profesor de Derecho
+    Politólogo
+    Persona adulta mayor
+
+👥 Población
+Personas mayores de 18 años en Costa Rica, con diversidad en edad, educación y ubicación geográfica.
+
+⚖️ Ética del estudio
+Se garantizó el consentimiento informado, la confidencialidad y el uso exclusivamente académico de los datos.
+
+## Resultados
+
+Una tabla con lo siguiente:
+    
+    Columna1: Variable	
+    Columna2: Descripción
+
+    Datos (Antes del guion datos de la columna 1, despues del guion datos de la columna 2):
+    Técnica de recolección - Entrevista semiestructurada
+    Tipo de informante - Informantes clave
+    Cantidad de participantes - 3
+    Perfil 1 - Profesor politólogo
+    Perfil 2 - Profesor de Derecho
+    Perfil 3 -Persona adulta mayor
+    Criterio de selección - Muestreo intencional por criterio (expertise y experiencia generacional)
+    Propósito - Profundizar en las percepciones especializadas y generacionales sobre la dictadura de los hermanos Tinoco
+    Justificación del perfil - La selección de perfiles de distintas disciplinas y etapas de vida permite contrastar visiones académicas y generacionales, enriqueciendo la interpretación de los resultados cuantitativos.
+
+Grafico Pastel con titulo Edad:
+    Opciones:
+        18 – 24 años
+        25 – 34 años
+        35 – 44 años
+        45 – 54 años
+        55 – 64 años
+        65 años o más
+    Resultados:
+        18 – 24 años: 75.5%
+        25 – 34 años: 15.1%
+        35 – 44 años: 1.9%
+        45 – 54 años: 7.5%
+        55 – 64 años: 0%
+        65 años o más: 0%
+
+
+Grafico Pastel con titulo Género:
+    Opciones:
+        Masculino
+        Femenino
+        No binario
+        Prefiero no responder
+        Sí
+    Resultados:
+        Masculino: 54.7%
+        Femenino: 41.5%
+        No binario: 0%
+        Prefiero no responder: 1.9%
+        Sí: 1.9%
+
+Grafico Pastel con titulo Residencia:
+    Opciones:
+        San José
+        Alajuela
+        Cartago
+        Guanacaste
+        Puntarenas
+        Heredia
+        Limón
+    Resultados:
+        San José: 49.1%
+        Alajuela: 28.3%
+        Cartago: 5.7%
+        Guanacaste: 3.8%
+        Puntarenas: 1.9%
+        Heredia: 11.3%
+        Limón: 0%
+
+Grafico Pastel con titulo Mantener y fortalecer la democracia en Costa Rica es fundamental para el país (¿Qué tan de
+acuerdo está con esta afirmación?):
+    Opciones:
+        Totalmente en desacuerdo
+        En desacuerdo
+        Ni de acuerdo ni en desacuerdo
+        De acuerdo
+        Totalmente de acuerdo
+    Resultados:
+        Totalmente en desacuerdo: 9.4%
+        En desacuerdo: 1.9%
+        Ni de acuerdo ni en desacuerdo: 7.5%
+        De acuerdo: 18.9%
+        Totalmente de acuerdo: 62.3%
+
+Grafico Barra Vertical con titulo Nivel de conocimiento sobre la dictadura de los Tinoco:
+    Escala del 1 al 10, donde:
+        1 = Muy poco conocimiento
+        10 = Alto conocimiento
+    Resultados:
+        1: 30.2%
+        2: 5.7%
+        3: 13.2%
+        4: 9.4%
+        5: 13.2%
+        6: 9.4%
+        7: 7.5%
+        8: 9.4%
+        9: 0%
+        10: 1.9%
+
+Grafico Pastel con titulo ¿Cuál de los siguientes eventos marcó el inicio de la dictadura de los hermanos Tinoco?:
+    Opciones:
+        La renuncia del presidente Alfredo González Flores
+        El golpe de Estado del 27 de enero de 1917
+        La intervención militar de Estados Unidos
+        La crisis económica de la Primera Guerra Mundial
+        No sabe / No recuerda
+    Resultados:
+        La renuncia del presidente Alfredo González Flores: 7.5%
+        El golpe de Estado del 27 de enero de 1917: 35.8%
+        La intervención militar de Estados Unidos: 3.8%
+        La crisis económica de la Primera Guerra Mundial: 9.4%
+        No sabe / No recuerda: 43.4%
+
+Grafico Pastel con titulo La dictadura de los Tinoco se caracterizó principalmente por el control militar, la represión política y la restricción de libertades fundamentales (¿Qué tan de acuerdo está con esta afirmación?):
+    Opciones:
+        Totalmente en desacuerdo
+        En desacuerdo
+        Ni de acuerdo ni en desacuerdo
+        De acuerdo
+        Totalmente de acuerdo
+    Resultados:
+        Totalmente en desacuerdo: 7.5%
+        En desacuerdo: 9.4%
+        Ni de acuerdo ni en desacuerdo: 24.5%
+        De acuerdo: 28.3%
+        Totalmente de acuerdo: 30.2%
+
+Grafico Pastel con titulo La caída de la dictadura en 1919 representó un momento clave para el fortalecimiento de la democracia en Costa Rica (¿Qué tan de acuerdo está con esta afirmación?):
+    Opciones:
+        Totalmente en desacuerdo
+        En desacuerdo
+        Ni de acuerdo ni en desacuerdo
+        De acuerdo
+        Totalmente de acuerdo 
+    Resultados:
+        Totalmente en desacuerdo: 1.9%
+        En desacuerdo: 5.7%
+        Ni de acuerdo ni en desacuerdo: 18.9%
+        De acuerdo: 37.7%
+        Totalmente de acuerdo: 35.8%
+        
+Grafico Horizontal con titulo ¿Donde aprendió de la dictadura de los hermanos Tinoco?
+    Opciones:
+        Enseñanza formal (colegio/universidad)
+        Medios de comunicación (televisión, radio, periódicos)
+        Redes sociales y internet
+        Conversaciones familiares
+        Nunca ha obtenido información sobre este tema
+    Resultados:
+        Enseñanza formal (colegio/universidad): 32.1%
+        Medios de comunicación: 18.9%
+        Redes sociales e internet: 13.2%
+        Conversaciones familiares: 15.1%
+        Nunca ha obtenido información sobre este tema: 34%
+        
+
+Grafico Barra Vertical con titulo ¿Qué tan relevante considera que es recordar la dictadura de los Tinoco para la democracia actual de Costa Rica? :
+    Escala del 1 al 10, donde:
+        1 = Muy poco conocimiento
+        10 = Alto conocimiento
+    Resultados:
+        1: 7.5%
+        2: 0%
+        3: 9.4%
+        4: 1.9%
+        5: 15.1%
+        6: 5.7%
+        7: 11.3%
+        8: 13.2%
+        9: 9.4%
+        10: 26.4%
+
+## Conclusiones
+La investigación evidencia que el nivel de conocimiento sobre la dictadura de los Tinoco es limitado en la población costarricense, lo que refleja importantes vacíos en la memoria histórica.
+A pesar de esto, existe una valoración positiva hacia la democracia, lo que demuestra que, aunque el conocimiento histórico no sea profundo, la población reconoce su importancia.
+Asimismo, se confirma que el conocimiento del pasado influye en la capacidad de identificar riesgos democráticos, como la concentración de poder o la manipulación de la información.
+En este sentido, fortalecer la educación histórica, el pensamiento crítico y la participación ciudadana resulta clave para prevenir el autoritarismo y consolidar una democracia más sólida.
+
+## Bibliográficas
+Arroyo Álvarez W. (2011). Revista Judicial de Costa Rica Nº99. El Gobierno de Federico Tinoco (Inicio de la “Liberalización” del Régimen Republicano Autoritario). https://escuelajudicialpj.poder-judicial.go.cr/Archivos/documentos/revs_juds/revista%2099/pdf/art_08.pdf
+
+Solano Campos Y. (s.f.). Del modelo político liberal al gobierno reformista de Gonzáles Flores y la dictadura de los Tinoco. “Gobierno de Alfredo González Flores: 1914-1917” https://www.inavirtual.ed.cr/pluginfile.php/2861709/mod_resource/content/2/gobierno_de_alfredo_gonzlez_flores_19141917.html 

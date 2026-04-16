@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node -e ':*)",
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(npx react-scripts:*)",
+      "Bash(node -e \"const d=require\\('/dev/stdin'\\);console.log\\(JSON.stringify\\(d.dependencies,null,2\\)\\)\")",
+      "Bash(node -e \"const fs=require\\('fs'\\);const p=JSON.parse\\(fs.readFileSync\\('package.json'\\)\\);console.log\\(JSON.stringify\\(p.dependencies,null,2\\)\\)\")",
+      "Bash(dir \"C:\\\\Users\\\\lordk\\\\OneDrive\\\\Documents\\\\New folder\\\\TinocoLandingPage\\\\node_modules\\\\.bin\\\\\" 2>&1 | findstr react)",
+      "Bash(node:*)"
+    ]
+  }
+}

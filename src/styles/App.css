@@ -60,6 +60,24 @@ body {
   color: #63b3ed;
 }
 
+.nav-switch-btn {
+  background: #ed8936;
+  color: white;
+  border: none;
+  padding: 7px 16px;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: bold;
+  transition: background 0.3s, transform 0.2s;
+  white-space: nowrap;
+}
+
+.nav-switch-btn:hover {
+  background: #dd6b20;
+  transform: translateY(-2px);
+}
+
 /* Hero */
 .hero {
   background: linear-gradient(135deg, #1a365d 0%, #2c5282 100%);
